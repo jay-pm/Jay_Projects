@@ -2,7 +2,7 @@
 
 Credit card companies shall be able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
-** Intro **
+**Background on fraud detection**
 
 - Fraud poseses a serious threat to all most all companies.
 - Examples of fraud: insurance fraud, credit card fraud, identify theft, money laundering, tax evasion, product warranty, healthcare fraud

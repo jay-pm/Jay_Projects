@@ -2,6 +2,16 @@
 
 Credit card companies shall be able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
+** Intro **
+
+- Fraud poseses a serious threat to all most all companies.
+- Examples of fraud: insurance fraud, credit card fraud, identify theft, money laundering, tax evasion, product warranty, healthcare fraud
+- Detecting fraud is typically challenging because fraud cases are:
+    - uncommon (minority, sometime .5% are fraudulent)
+    - concealed (blendin with normal transactions)
+    - changing over time (fraudsters will change activity over time to make it look like normal)
+    - organized (fraudeters often work together in a network to make their activity harder to detect
+
 **Data Set Description:**
 
 The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,315 transactions. It has 30 input features and 1 target variable. The dataset is highly unbalanced, the positive class (frauds) account for 0.173% of all transactions.
